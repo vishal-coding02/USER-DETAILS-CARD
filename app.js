@@ -109,5 +109,5 @@ function findUserData(createUserCard) {
   userDataCont.appendChild(userAge);
 
   userData.appendChild(userDataCont);
-//   console.log(userData);
+  console.log(userData);
 }
